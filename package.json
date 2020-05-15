@@ -1,6 +1,6 @@
 {
   "name": "upload-artifact-as-is",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha",
   "description": "Upload a build artifact as-is that you can download later",
   "main": "dist/index.js",
   "scripts": {
