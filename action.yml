@@ -1,0 +1,10 @@
+name: 'Upload a Build Artifact As-Is'
+description: 'Uploads a build artifact with its name as-is, that you can download later'
+author: 'kittaakos'
+inputs: 
+  path:
+    description: 'A file, directory or wildcard pattern that describes what to upload'
+    required: true
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
