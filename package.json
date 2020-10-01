@@ -25,7 +25,7 @@
   "homepage": "https://github.com/kittaakos/upload-artifact-as-is#readme",
   "devDependencies": {
     "@actions/artifact": "^0.3.1",
-    "@actions/core": "^1.2.3",
+    "@actions/core": "^1.2.6",
     "@actions/glob": "^0.1.0",
     "@actions/io": "^1.0.2",
     "@types/node": "^13.11.1",
